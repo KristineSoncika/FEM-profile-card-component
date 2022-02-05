@@ -22,8 +22,8 @@ This is my solution to the [Profile card component challenge on Frontend Mentor]
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/KristineSoncika/FEM-profile-card-component)
-- Live Site URL: [Add live site URL here](https://kristinesoncika.github.io/FEM-profile-card-component/)
+- Solution URL [_here_](https://github.com/KristineSoncika/FEM-profile-card-component)
+- Live Site URL [_here_](https://kristinesoncika.github.io/FEM-profile-card-component/)
 
 ### Built with
 
